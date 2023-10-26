@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/rebmannPortfolio_React/static/css/main.ac42a97d.css",
+    "main.js": "/rebmannPortfolio_React/static/js/main.b10de331.js",
+    "static/media/portfolio6.jpg": "/rebmannPortfolio_React/static/media/portfolio6.17e506812df0832d67d5.jpg",
+    "static/media/logo.png": "/rebmannPortfolio_React/static/media/logo.b245c09d31b42e1d68c0.png",
+    "static/media/icon2.png": "/rebmannPortfolio_React/static/media/icon2.729e5e3b3e5ceed58ccf.png",
+    "static/media/icon4.png": "/rebmannPortfolio_React/static/media/icon4.566a84e132386be6a1df.png",
+    "static/media/portfolio1.jpg": "/rebmannPortfolio_React/static/media/portfolio1.c6900a1bb4723042a533.jpg",
+    "static/media/icon1.png": "/rebmannPortfolio_React/static/media/icon1.9c942b999b4495f77db4.png",
+    "static/media/icon3.png": "/rebmannPortfolio_React/static/media/icon3.f337d3523fe1812776a2.png",
+    "static/media/portfolio3.jpg": "/rebmannPortfolio_React/static/media/portfolio3.3ccb16f20fa43b417e6f.jpg",
+    "static/media/portfolio4.jpg": "/rebmannPortfolio_React/static/media/portfolio4.c622a60c17dd8f1313be.jpg",
+    "static/media/portfolio2.jpg": "/rebmannPortfolio_React/static/media/portfolio2.8c3cc22082b3e931ac5f.jpg",
+    "static/media/portfolio5.jpg": "/rebmannPortfolio_React/static/media/portfolio5.4652a6830c489a30a246.jpg",
+    "static/media/ui-design.png": "/rebmannPortfolio_React/static/media/ui-design.b58fb0bb4e007abf3ca2.png",
+    "static/media/menu.png": "/rebmannPortfolio_React/static/media/menu.4a568aef26a4ee3b8e8a.png",
+    "static/media/client4.png": "/rebmannPortfolio_React/static/media/client4.718cbf2b9bf38f392293.png",
+    "static/media/app-design.png": "/rebmannPortfolio_React/static/media/app-design.aea6ecc278f3b0984a28.png",
+    "static/media/client2.png": "/rebmannPortfolio_React/static/media/client2.ff5052ae8b5010cfb190.png",
+    "static/media/client1.png": "/rebmannPortfolio_React/static/media/client1.789c7c8272ffcd7c159a.png",
+    "static/media/web-design.png": "/rebmannPortfolio_React/static/media/web-design.ecce4663ceb44bdac17e.png",
+    "static/media/client3.png": "/rebmannPortfolio_React/static/media/client3.d4dd6caa1315a1f8df30.png",
+    "static/media/image.png": "/rebmannPortfolio_React/static/media/image.a74c449e8ce5e764f27f.png",
+    "index.html": "/rebmannPortfolio_React/index.html",
+    "main.ac42a97d.css.map": "/rebmannPortfolio_React/static/css/main.ac42a97d.css.map",
+    "main.b10de331.js.map": "/rebmannPortfolio_React/static/js/main.b10de331.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac42a97d.css",
+    "static/js/main.b10de331.js"
+  ]
+}
